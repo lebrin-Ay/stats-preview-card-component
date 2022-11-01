@@ -105,8 +105,8 @@ main {
     .card-container {
         margin-top: 6rem;
         flex-direction: column-reverse;
-        width: 10vw;
-        height: 96vh;
+        width: 60vw;
+        height: 156vh;
 
     } 
 
@@ -170,14 +170,14 @@ main {
 } 
 
 
-@media screen and (max-width: 1100px) {
+/* @media screen and (max-width: 1100px) {
     .card-container {
         width: 80vw;
         height: 70vh;
     }
-}
+} */
 
-@media screen and (max-width: 900px) {
+/* @media screen and (max-width: 900px) {
     .card-container {
         margin-top: 6rem;
         flex-direction: column-reverse;
@@ -239,5 +239,5 @@ main {
         font-size: .5rem;
     }
 
-}
+} */
 
